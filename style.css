@@ -36,11 +36,11 @@ nav ul{
 
 }
 .container div{
-    border: 2px solid black;
+    border: 1px solid black;
     font-size: 8vw;
 }
 .box{
-    border:2px solid black ;
+    border:1px solid black ;
     font-size: 8vw;
     cursor: pointer;
     display: flex;
@@ -56,4 +56,14 @@ nav ul{
 }
 .imgbox{
     display: none;
+}
+.boxright{
+    border-right:0 ;
+
+}
+.bl-0{
+    border-left: 0;
+}
+.bt-0{
+    border-top: 0;
 }
